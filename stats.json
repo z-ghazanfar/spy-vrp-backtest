@@ -1,0 +1,75 @@
+{
+  "date_start": "2010-02-03",
+  "date_end": "2025-12-30",
+  "n_days": 4002,
+  "n_years": 15.9,
+  "vrp_mean": 3.67,
+  "vrp_median": 4.1,
+  "vrp_std": 5.33,
+  "iv_gt_rv_pct": 85.3,
+  "iv_mean": 18.4,
+  "rv_mean": 14.73,
+  "n_trades": 121,
+  "win_rate": 86.0,
+  "avg_pnl": 22.39,
+  "avg_pnl_wins": 34.67,
+  "avg_pnl_losses": -52.7,
+  "cum_ret_filtered": 15691.85,
+  "cum_ret_always_on": 120018.4,
+  "ann_ret_filtered": 37.5,
+  "ann_ret_always_on": 56.2,
+  "max_drawdown": -24.31,
+  "ao_win_rate": 85.3,
+  "ao_max_dd": -40.71,
+  "n_ao_trades": 184,
+  "sharpe_annual": 2.47,
+  "vrp_threshold": 3.0,
+  "spread_width_pct": 2.0,
+  "premium_ratio_pct": 35.0,
+  "capital_alloc_pct": 20.0,
+  "rv_window": 21,
+  "vix_peaks": {
+    "2011 Credit Downgrade": {
+      "peak_vix": 48.0,
+      "peak_date": "2011-08-08"
+    },
+    "2015 Flash Crash": {
+      "peak_vix": 40.7,
+      "peak_date": "2015-08-24"
+    },
+    "2018 Volmageddon": {
+      "peak_vix": 37.3,
+      "peak_date": "2018-02-05"
+    },
+    "2020 COVID Crash": {
+      "peak_vix": 82.7,
+      "peak_date": "2020-03-16"
+    },
+    "2022 Fed Rate Shock": {
+      "peak_vix": 34.8,
+      "peak_date": "2022-05-09"
+    }
+  },
+  "quintile_fwd_ret": {
+    "Q1\n(Low)": {
+      "vrp_mean": -3.36,
+      "fwd_ret": 1.423
+    },
+    "Q2": {
+      "vrp_mean": 2.18,
+      "fwd_ret": 0.999
+    },
+    "Q3": {
+      "vrp_mean": 4.1,
+      "fwd_ret": 1.02
+    },
+    "Q4": {
+      "vrp_mean": 5.87,
+      "fwd_ret": 0.67
+    },
+    "Q5\n(High)": {
+      "vrp_mean": 9.58,
+      "fwd_ret": 1.967
+    }
+  }
+}
