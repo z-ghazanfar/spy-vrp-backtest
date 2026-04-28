@@ -1,5 +1,9 @@
 # SPX Variance Risk Premium — Bull Put Spread Backtest
 
+**Paper:** [Exploiting the Variance Risk Premium: A Systematic Credit Spread Strategy on SPY](VRP_Credit_Spread_Paper.pdf)
+
+---
+
 A systematic options strategy that exploits the persistent gap between implied and realized volatility on SPY. The VIX consistently prices in more volatility than actually materializes, creating a structural edge for options sellers. This project quantifies that edge and backtests a defined-risk credit spread strategy on top of it.
 
 ## Strategy
