@@ -34,7 +34,7 @@ The filter doesn't improve win rate much — the base rate is already high. Its 
 
 ```bash
 python -m venv venv
-source venv/bin/activate
+source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
